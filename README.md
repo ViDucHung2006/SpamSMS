@@ -2,6 +2,7 @@
 ```sh
 git clone https://github.com/ViDucHung2006/SpamSMS.git
 cd SpamSMS
+git pull
 php spamsms.php
 ```
 # Group Telegram
